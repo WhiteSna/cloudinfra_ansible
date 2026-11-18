@@ -14,3 +14,11 @@
 ## yml 파일의 의미
 
 <img src="/.images/image04.png">
+
+## yml 파일에서 여러줄의 문자열 작성
+
+<img src="/.images/image05.png">
+
+## yml과 json 비교 1
+
+'''
