@@ -1,0 +1,6 @@
+
+# vars/main.yml   
+   
+db_name: "scott_db"
+db_user: "scott"
+db_pass: "tiger"
